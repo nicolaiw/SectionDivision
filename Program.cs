@@ -47,7 +47,7 @@ namespace Etappen
 
                 3*5 + 6 = 21
 
-                Bis hier hin kurz zusammen gefasst:
+                Bis hier hin kurz zusammengefasst:
 
                     Maximale Tagesstrecke minimiert optimum = 6     // folglich opt genannt
                     Maximale Tagesstrecke minimiert worst case = 21 // folglich worst genannt
