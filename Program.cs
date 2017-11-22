@@ -32,7 +32,7 @@ namespace Etappen
             /*
                 Aufgabenstellung:
                 
-                Die die MAXIMALE Tagesstrecke soll MINIMIERT werden.
+                Die MAXIMALE Tagesstrecke soll MINIMIERT werden.
                 Der minimal möglichste Wert ist nun der, wenn die maximale
                 Tagesstrecke auf einen Tage gelegt wird.
 
